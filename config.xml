@@ -9,7 +9,7 @@
 	<name>Datos del Dispositivo</name>
 	
 	<description>
-	    Aplicaciones que muestra la celebracion de semana santa
+	    Aplicaciones que muestra datos del dispositivos
 		</description>
 		
 		<preference name="phonegap-version" value="3.1.0"/>
